@@ -1,0 +1,5 @@
+data/walk_network.json
+data/osm_candidates.json
+.DS_Store
+__pycache__/
+*.pyc
