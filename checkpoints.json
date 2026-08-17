@@ -82,6 +82,7 @@
    "origin": "185件から再利用",
    "neighbours_15min": 12,
    "candidates_considered": 38,
+   "needs_check": "",
    "runner_up_1": "子規庵／名所・史跡／217m／品質0.92",
    "runner_up_2": "東叡山養寿院／寺社／230m／品質0.92",
    "runner_up_3": "書道博物館／文化／208m／品質0.884"
@@ -111,6 +112,7 @@
    "origin": "185件から再利用",
    "neighbours_15min": 14,
    "candidates_considered": 64,
+   "needs_check": "",
    "runner_up_1": "りん／お好み焼き・もんじゃ／83m／品質1.0",
    "runner_up_2": "花とく／とんかつ／139m／品質1.0",
    "runner_up_3": "鮨創作料理奄美／すし／171m／品質1.0"
@@ -140,6 +142,7 @@
    "origin": "185件から再利用",
    "neighbours_15min": 14,
    "candidates_considered": 53,
+   "needs_check": "",
    "runner_up_1": "廻転寿司　日本海／すし／210m／品質1.0",
    "runner_up_2": "らーめん　サムライ／ラーメン／212m／品質1.0",
    "runner_up_3": "蕎麦義／そば／220m／品質1.0"
@@ -167,8 +170,9 @@
    "reason": "名物の一皿の業種。単店の屋号。短い屋号。仮プロットから15m。次点は喜多方食堂（63m・品質1.0）で、距離で上回ったため採用。",
    "source": "台東区 食品衛生営業施設一覧",
    "origin": "185件から再利用",
-   "neighbours_15min": 11,
+   "neighbours_15min": 12,
    "candidates_considered": 102,
+   "needs_check": "",
    "runner_up_1": "喜多方食堂／ラーメン／63m／品質1.0",
    "runner_up_2": "蕎麦と日本酒　いちえ／そば／79m／品質0.958",
    "runner_up_3": "砂場／そば／163m／品質1.0"
@@ -198,6 +202,7 @@
    "origin": "185件から再利用",
    "neighbours_15min": 12,
    "candidates_considered": 42,
+   "needs_check": "",
    "runner_up_1": "お好み焼　ガンクラ／お好み焼き・もんじゃ／163m／品質1.0",
    "runner_up_2": "朝日寿司／すし／195m／品質1.0",
    "runner_up_3": "お好み焼き　道草／お好み焼き・もんじゃ／216m／品質1.0"
@@ -210,26 +215,27 @@
    "plot_lat": 35.70045,
    "plot_lon": 139.775013,
    "walk_min_from_core": 7.9,
-   "spot_name": "スパイスラーメン　卍力",
-   "spot_category": "ラーメン",
+   "spot_name": "そば処 更科 前田屋",
+   "spot_category": "そば",
    "spot_group": "食",
-   "spot_lat": 35.701317,
-   "spot_lon": 139.775864,
-   "offset_m": 123,
+   "spot_lat": 35.701396,
+   "spot_lon": 139.77724,
+   "offset_m": 227,
    "Q1": 1.0,
    "Q2": 1.0,
-   "Q3": 0.7,
+   "Q3": 1.0,
    "Q4": 1.0,
    "Q5": 1.0,
-   "quality_total": 0.958,
-   "reason": "名物の一皿の業種。単店の屋号。仮プロットから123m。次点は秋葉原拉麺劇場（199m・品質1.0）で、距離で上回ったため採用。",
-   "source": "台東区 食品衛生営業施設一覧",
+   "quality_total": 1.0,
+   "reason": "名物の一皿の業種。単店の屋号。短い屋号。仮プロットから227m。次点は更科（228m・品質1.0）で、距離で上回ったため採用。",
+   "source": "OpenStreetMap",
    "origin": "新規選定",
    "neighbours_15min": 12,
    "candidates_considered": 75,
-   "runner_up_1": "秋葉原拉麺劇場／ラーメン／199m／品質1.0",
-   "runner_up_2": "そば処 更科 前田屋／そば／227m／品質1.0",
-   "runner_up_3": "更科／そば／228m／品質1.0"
+   "needs_check": "",
+   "runner_up_1": "更科／そば／228m／品質1.0",
+   "runner_up_2": "満留賀／そば／263m／品質1.0",
+   "runner_up_3": "宇奈とと／うなぎ／271m／品質1.0"
   },
   {
    "checkpoint_id": "CP007",
@@ -256,6 +262,7 @@
    "origin": "新規選定",
    "neighbours_15min": 14,
    "candidates_considered": 140,
+   "needs_check": "",
    "runner_up_1": "湯島らーめん／ラーメン／154m／品質1.0",
    "runner_up_2": "花姫稲荷／史跡・記念物／44m／品質0.92",
    "runner_up_3": "花姫稲荷／寺社／46m／品質0.92"
@@ -285,6 +292,7 @@
    "origin": "新規選定",
    "neighbours_15min": 9,
    "candidates_considered": 41,
+   "needs_check": "",
    "runner_up_1": "江戸上屋敷址／史跡・記念物／114m／品質0.884",
    "runner_up_2": "IZASA／ラーメン／272m／品質1.0",
    "runner_up_3": "家家家／ラーメン／276m／品質1.0"
@@ -314,6 +322,7 @@
    "origin": "新規選定",
    "neighbours_15min": 11,
    "candidates_considered": 29,
+   "needs_check": "",
    "runner_up_1": "妙極院／寺社／134m／品質0.92",
    "runner_up_2": "霊雲寺／史跡・記念物／154m／品質0.92",
    "runner_up_3": "弥生式土器発掘ゆかりの地／史跡・記念物／132m／品質0.842"
@@ -343,6 +352,7 @@
    "origin": "新規選定",
    "neighbours_15min": 14,
    "candidates_considered": 35,
+   "needs_check": "要確認",
    "runner_up_1": "となり／お好み焼き・もんじゃ／120m／品質1.0",
    "runner_up_2": "たらく／すし／133m／品質1.0",
    "runner_up_3": "麺屋 ふじ田／ラーメン／185m／品質1.0"
@@ -372,6 +382,7 @@
    "origin": "新規選定",
    "neighbours_15min": 15,
    "candidates_considered": 10,
+   "needs_check": "",
    "runner_up_1": "創価学会／寺社／210m／品質0.92",
    "runner_up_2": "東日暮里3丁目公園／公園／122m／品質0.798",
    "runner_up_3": "蓮念寺／寺社／308m／品質0.92"
@@ -401,6 +412,7 @@
    "origin": "新規選定",
    "neighbours_15min": 18,
    "candidates_considered": 36,
+   "needs_check": "",
    "runner_up_1": "竜泉　むさしや／そば／109m／品質1.0",
    "runner_up_2": "東嶋屋／そば／112m／品質1.0",
    "runner_up_3": "誠鮨／すし／112m／品質1.0"
@@ -430,6 +442,7 @@
    "origin": "185件から再利用",
    "neighbours_15min": 18,
    "candidates_considered": 79,
+   "needs_check": "要確認",
    "runner_up_1": "鮨　４６８／すし／119m／品質1.0",
    "runner_up_2": "浅草　文字家／お好み焼き・もんじゃ／182m／品質1.0",
    "runner_up_3": "本然寺／寺社／13m／品質0.92"
@@ -459,6 +472,7 @@
    "origin": "新規選定",
    "neighbours_15min": 15,
    "candidates_considered": 188,
+   "needs_check": "",
    "runner_up_1": "日本海／すし／61m／品質1.0",
    "runner_up_2": "甲州屋／そば／104m／品質1.0",
    "runner_up_3": "鳥越寿司／すし／105m／品質1.0"
@@ -488,6 +502,7 @@
    "origin": "新規選定",
    "neighbours_15min": 13,
    "candidates_considered": 46,
+   "needs_check": "",
    "runner_up_1": "浄念寺／文化財のある寺社／79m／品質0.92",
    "runner_up_2": "らーめん　改／ラーメン／197m／品質1.0",
    "runner_up_3": "ラーメン改／ラーメン／199m／品質1.0"
@@ -517,6 +532,7 @@
    "origin": "新規選定",
    "neighbours_15min": 12,
    "candidates_considered": 72,
+   "needs_check": "",
    "runner_up_1": "蓑寿司／すし／132m／品質1.0",
    "runner_up_2": "麺屋　いまむら／ラーメン／153m／品質1.0",
    "runner_up_3": "麺屋加減／ラーメン／153m／品質1.0"
@@ -546,6 +562,7 @@
    "origin": "新規選定",
    "neighbours_15min": 17,
    "candidates_considered": 47,
+   "needs_check": "要確認",
    "runner_up_1": "銀蔵／すし／156m／品質1.0",
    "runner_up_2": "築地すし好／すし／198m／品質1.0",
    "runner_up_3": "金比羅宮／史跡・記念物／89m／品質0.92"
@@ -575,6 +592,7 @@
    "origin": "新規選定",
    "neighbours_15min": 16,
    "candidates_considered": 107,
+   "needs_check": "",
    "runner_up_1": "みそ熊／ラーメン／215m／品質1.0",
    "runner_up_2": "献燈台奉献之碑／史跡・記念物／157m／品質0.92",
    "runner_up_3": "らーめん影武者／ラーメン／239m／品質1.0"
@@ -602,8 +620,9 @@
    "reason": "名物の一皿の業種。単店の屋号。短い屋号。仮プロットから112m。次点は磯はな（139m・品質1.0）で、距離で上回ったため採用。",
    "source": "OpenStreetMap",
    "origin": "新規選定",
-   "neighbours_15min": 15,
+   "neighbours_15min": 14,
    "candidates_considered": 65,
+   "needs_check": "",
    "runner_up_1": "磯はな／すし／139m／品質1.0",
    "runner_up_2": "すず木／すし／193m／品質1.0",
    "runner_up_3": "天理教國華分教會／寺社／78m／品質0.92"
@@ -633,6 +652,7 @@
    "origin": "新規選定",
    "neighbours_15min": 14,
    "candidates_considered": 28,
+   "needs_check": "",
    "runner_up_1": "福狩稲荷／史跡・記念物／112m／品質0.92",
    "runner_up_2": "藤之森稲荷神社／寺社／113m／品質0.92",
    "runner_up_3": "喜福寿寺／寺社／143m／品質0.92"
@@ -645,26 +665,27 @@
    "plot_lat": 35.717854,
    "plot_lon": 139.757891,
    "walk_min_from_core": 14.5,
-   "spot_name": "用心棒",
-   "spot_category": "ラーメン",
-   "spot_group": "食",
-   "spot_lat": 35.717766,
-   "spot_lon": 139.757846,
-   "offset_m": 11,
-   "Q1": 1.0,
+   "spot_name": "願行寺",
+   "spot_category": "寺社",
+   "spot_group": "寺社",
+   "spot_lat": 35.718177,
+   "spot_lon": 139.758819,
+   "offset_m": 91,
+   "Q1": 0.8,
    "Q2": 1.0,
    "Q3": 1.0,
    "Q4": 1.0,
    "Q5": 1.0,
-   "quality_total": 1.0,
-   "reason": "名物の一皿の業種。単店の屋号。短い屋号。仮プロットから11m。次点は小松庵（178m・品質1.0）で、距離で上回ったため採用。",
+   "quality_total": 0.92,
+   "reason": "訪ねられる寺社。短い屋号。仮プロットから91m。次点は西教寺（123m・品質0.92）で、距離で上回ったため採用。",
    "source": "OpenStreetMap",
    "origin": "新規選定",
    "neighbours_15min": 12,
    "candidates_considered": 29,
-   "runner_up_1": "小松庵／そば／178m／品質1.0",
-   "runner_up_2": "願行寺／寺社／91m／品質0.92",
-   "runner_up_3": "西教寺／寺社／123m／品質0.92"
+   "needs_check": "",
+   "runner_up_1": "西教寺／寺社／123m／品質0.92",
+   "runner_up_2": "織恩／ラーメン／226m／品質1.0",
+   "runner_up_3": "西善寺／寺社／226m／品質0.92"
   },
   {
    "checkpoint_id": "CP022",
@@ -691,6 +712,7 @@
    "origin": "新規選定",
    "neighbours_15min": 9,
    "candidates_considered": 21,
+   "needs_check": "",
    "runner_up_1": "世尊院／寺社／118m／品質0.92",
    "runner_up_2": "汐見児童遊園／公園／79m／品質0.84",
    "runner_up_3": "団子坂上広場／公園／166m／品質0.84"
@@ -720,6 +742,7 @@
    "origin": "新規選定",
    "neighbours_15min": 12,
    "candidates_considered": 7,
+   "needs_check": "",
    "runner_up_1": "西日暮里一丁目広場／公園／176m／品質0.798",
    "runner_up_2": "小鳩公園／公園／273m／品質0.84",
    "runner_up_3": "ガリラヤ宣教協会／寺社／345m／品質0.92"
@@ -749,6 +772,7 @@
    "origin": "新規選定",
    "neighbours_15min": 11,
    "candidates_considered": 22,
+   "needs_check": "",
    "runner_up_1": "ますや／そば／205m／品質1.0",
    "runner_up_2": "三峯神社／寺社／142m／品質0.92",
    "runner_up_3": "かさねや／とんかつ／250m／品質1.0"
@@ -778,6 +802,7 @@
    "origin": "新規選定",
    "neighbours_15min": 18,
    "candidates_considered": 29,
+   "needs_check": "",
    "runner_up_1": "本格豚骨ラーメン　味味／ラーメン／68m／品質0.958",
    "runner_up_2": "峠の蕎麦／そば／152m／品質1.0",
    "runner_up_3": "次郎長寿司／すし／164m／品質1.0"
@@ -807,6 +832,7 @@
    "origin": "新規選定",
    "neighbours_15min": 18,
    "candidates_considered": 36,
+   "needs_check": "要確認",
    "runner_up_1": "前野屋／そば／122m／品質1.0",
    "runner_up_2": "竜泉大和田／うなぎ／149m／品質1.0",
    "runner_up_3": "長國寺／寺社／135m／品質0.92"
@@ -836,6 +862,7 @@
    "origin": "新規選定",
    "neighbours_15min": 16,
    "candidates_considered": 114,
+   "needs_check": "",
    "runner_up_1": "鮨　一新／すし／41m／品質1.0",
    "runner_up_2": "鮨処　幸／すし／63m／品質1.0",
    "runner_up_3": "栄寿司／すし／82m／品質1.0"
@@ -865,6 +892,7 @@
    "origin": "新規選定",
    "neighbours_15min": 15,
    "candidates_considered": 145,
+   "needs_check": "",
    "runner_up_1": "浅草うな鐵　浅草駅前本店／うなぎ／39m／品質0.958",
    "runner_up_2": "風雷庵　浅草本店／そば／145m／品質1.0",
    "runner_up_3": "つるや／うなぎ／151m／品質1.0"
@@ -894,6 +922,7 @@
    "origin": "新規選定",
    "neighbours_15min": 18,
    "candidates_considered": 14,
+   "needs_check": "",
    "runner_up_1": "麺処むささんじん／ラーメン／269m／品質1.0",
    "runner_up_2": "天理教／寺社／297m／品質0.92",
    "runner_up_3": "らーめん元楽／ラーメン／346m／品質1.0"
@@ -923,6 +952,7 @@
    "origin": "新規選定",
    "neighbours_15min": 13,
    "candidates_considered": 41,
+   "needs_check": "要確認",
    "runner_up_1": "北地蔵／ラーメン／173m／品質1.0",
    "runner_up_2": "榊神社／寺社／4m／品質0.92",
    "runner_up_3": "浅草文庫跡碑／名所・史跡／15m／品質0.92"
@@ -952,6 +982,7 @@
    "origin": "新規選定",
    "neighbours_15min": 13,
    "candidates_considered": 53,
+   "needs_check": "",
    "runner_up_1": "鮨　小料理　あじま／すし／197m／品質1.0",
    "runner_up_2": "手打ちそば　更里／そば／197m／品質1.0",
    "runner_up_3": "とんかつ藤芳／とんかつ／200m／品質1.0"
@@ -981,6 +1012,7 @@
    "origin": "新規選定",
    "neighbours_15min": 15,
    "candidates_considered": 29,
+   "needs_check": "要確認",
    "runner_up_1": "おひげ寿司／すし／195m／品質1.0",
    "runner_up_2": "忠魂碑／史跡・記念物／73m／品質0.92",
    "runner_up_3": "見延別院／寺社／79m／品質0.92"
@@ -1010,6 +1042,7 @@
    "origin": "新規選定",
    "neighbours_15min": 13,
    "candidates_considered": 67,
+   "needs_check": "要確認",
    "runner_up_1": "回転寿司江戸ッ子／すし／184m／品質1.0",
    "runner_up_2": "真徳稲荷神社／寺社／111m／品質0.92",
    "runner_up_3": "尾張屋本店／そば／217m／品質1.0"
@@ -1022,26 +1055,27 @@
    "plot_lat": 35.696764,
    "plot_lon": 139.761811,
    "walk_min_from_core": 20.9,
-   "spot_name": "ラーメン盛太郎",
+   "spot_name": "一正",
    "spot_category": "ラーメン",
    "spot_group": "食",
-   "spot_lat": 35.696543,
-   "spot_lon": 139.761282,
-   "offset_m": 54,
+   "spot_lat": 35.696196,
+   "spot_lon": 139.760868,
+   "offset_m": 106,
    "Q1": 1.0,
    "Q2": 1.0,
    "Q3": 1.0,
    "Q4": 1.0,
    "Q5": 1.0,
    "quality_total": 1.0,
-   "reason": "名物の一皿の業種。単店の屋号。短い屋号。仮プロットから54m。次点は一正（106m・品質1.0）で、距離で上回ったため採用。",
+   "reason": "名物の一皿の業種。単店の屋号。短い屋号。仮プロットから106m。次点は麺匠 大宮（107m・品質1.0）で、距離で上回ったため採用。",
    "source": "OpenStreetMap",
    "origin": "新規選定",
-   "neighbours_15min": 12,
+   "neighbours_15min": 13,
    "candidates_considered": 67,
-   "runner_up_1": "一正／ラーメン／106m／品質1.0",
-   "runner_up_2": "麺匠 大宮／ラーメン／107m／品質1.0",
-   "runner_up_3": "武蔵家／ラーメン／137m／品質1.0"
+   "needs_check": "",
+   "runner_up_1": "麺匠 大宮／ラーメン／107m／品質1.0",
+   "runner_up_2": "武蔵家／ラーメン／137m／品質1.0",
+   "runner_up_3": "やぶ仙／そば／166m／品質1.0"
   },
   {
    "checkpoint_id": "CP035",
@@ -1068,6 +1102,7 @@
    "origin": "新規選定",
    "neighbours_15min": 13,
    "candidates_considered": 41,
+   "needs_check": "",
    "runner_up_1": "興安寺／寺社／166m／品質0.92",
    "runner_up_2": "水道橋 稲荷社／史跡・記念物／167m／品質0.92",
    "runner_up_3": "金比羅宮東京分社／寺社／173m／品質0.92"
@@ -1095,8 +1130,9 @@
    "reason": "公園・庭園。短い屋号。仮プロットから74m。次点は藤田東湖先生護母致命之處（172m・品質0.842）で、距離で上回ったため採用。",
    "source": "OpenStreetMap",
    "origin": "新規選定",
-   "neighbours_15min": 13,
+   "neighbours_15min": 14,
    "candidates_considered": 27,
+   "needs_check": "",
    "runner_up_1": "藤田東湖先生護母致命之處／史跡・記念物／172m／品質0.842",
    "runner_up_2": "鎮魂の碑／史跡・記念物／252m／品質0.92",
    "runner_up_3": "八卦堂跡／史跡・記念物／266m／品質0.92"
@@ -1126,6 +1162,7 @@
    "origin": "新規選定",
    "neighbours_15min": 15,
    "candidates_considered": 7,
+   "needs_check": "",
    "runner_up_1": "丸山福山児童遊園／公園／104m／品質0.84",
    "runner_up_2": "樋口一葉終焉の地／史跡・記念物／178m／品質0.884",
    "runner_up_3": "八千代町児童遊園／公園／291m／品質0.84"
@@ -1155,6 +1192,7 @@
    "origin": "新規選定",
    "neighbours_15min": 14,
    "candidates_considered": 43,
+   "needs_check": "要確認",
    "runner_up_1": "大幸家／ラーメン／147m／品質1.0",
    "runner_up_2": "越／ラーメン／152m／品質1.0",
    "runner_up_3": "辰巳／すし／153m／品質1.0"
@@ -1179,14 +1217,15 @@
    "Q4": 1.0,
    "Q5": 1.0,
    "quality_total": 0.84,
-   "reason": "公園・庭園。短い屋号。仮プロットから59m。次点はそば処 小松庵（271m・品質1.0）で、距離で上回ったため採用。",
+   "reason": "公園・庭園。短い屋号。仮プロットから59m。次点は養源寺（223m・品質0.92）で、距離で上回ったため採用。",
    "source": "OpenStreetMap",
    "origin": "新規選定",
    "neighbours_15min": 13,
    "candidates_considered": 21,
-   "runner_up_1": "そば処 小松庵／そば／271m／品質1.0",
-   "runner_up_2": "養源寺／寺社／223m／品質0.92",
-   "runner_up_3": "西林ひろば／公園／133m／品質0.84"
+   "needs_check": "",
+   "runner_up_1": "養源寺／寺社／223m／品質0.92",
+   "runner_up_2": "西林ひろば／公園／133m／品質0.84",
+   "runner_up_3": "動坂遺跡／史跡・記念物／264m／品質0.92"
   },
   {
    "checkpoint_id": "CP040",
@@ -1213,6 +1252,7 @@
    "origin": "新規選定",
    "neighbours_15min": 13,
    "candidates_considered": 29,
+   "needs_check": "",
    "runner_up_1": "向陵稲荷神社／寺社／71m／品質0.92",
    "runner_up_2": "麺屋　義／ラーメン／201m／品質1.0",
    "runner_up_3": "天下一　うどん／そば／229m／品質1.0"
@@ -1242,6 +1282,7 @@
    "origin": "新規選定",
    "neighbours_15min": 10,
    "candidates_considered": 17,
+   "needs_check": "",
    "runner_up_1": "天心ラーメン／ラーメン／266m／品質1.0",
    "runner_up_2": "真昌寺／寺社／217m／品質0.92",
    "runner_up_3": "吉野鮨／すし／293m／品質1.0"
@@ -1271,6 +1312,7 @@
    "origin": "新規選定",
    "neighbours_15min": 14,
    "candidates_considered": 31,
+   "needs_check": "要確認",
    "runner_up_1": "荒川二丁目南公園／公園／103m／品質0.84",
    "runner_up_2": "ゆいの森あらかわ／観光施設／206m／品質0.884",
    "runner_up_3": "密厳院／観光施設／241m／品質0.92"
@@ -1300,6 +1342,7 @@
    "origin": "新規選定",
    "neighbours_15min": 12,
    "candidates_considered": 14,
+   "needs_check": "",
    "runner_up_1": "瑞光公園／公園／136m／品質0.84",
    "runner_up_2": "千住間道グリーンスポット／公園／81m／品質0.798",
    "runner_up_3": "日本羊毛工業発祥の地／史跡・記念物／177m／品質0.842"
@@ -1329,6 +1372,7 @@
    "origin": "新規選定",
    "neighbours_15min": 12,
    "candidates_considered": 19,
+   "needs_check": "",
    "runner_up_1": "延命寺／観光施設／96m／品質0.92",
    "runner_up_2": "回向院／観光施設／145m／品質0.92",
    "runner_up_3": "小塚原回向院／寺社／150m／品質0.92"
@@ -1358,6 +1402,7 @@
    "origin": "新規選定",
    "neighbours_15min": 14,
    "candidates_considered": 37,
+   "needs_check": "",
    "runner_up_1": "来福亭／ラーメン／194m／品質1.0",
    "runner_up_2": "東禪寺／寺社／106m／品質0.92",
    "runner_up_3": "とんかつ　美乃屋／とんかつ／226m／品質1.0"
@@ -1387,6 +1432,7 @@
    "origin": "新規選定",
    "neighbours_15min": 12,
    "candidates_considered": 45,
+   "needs_check": "",
    "runner_up_1": "朝日山／そば／238m／品質1.0",
    "runner_up_2": "浅草製麺所／ラーメン／240m／品質1.0",
    "runner_up_3": "道灌稲荷跡／史跡・記念物／173m／品質0.92"
@@ -1416,6 +1462,7 @@
    "origin": "新規選定",
    "neighbours_15min": 11,
    "candidates_considered": 27,
+   "needs_check": "",
    "runner_up_1": "明治天皇御製／史跡・記念物／90m／品質0.884",
    "runner_up_2": "三喜／ラーメン／244m／品質1.0",
    "runner_up_3": "隅田公園水戸邸跡由来記／史跡・記念物／89m／品質0.842"
@@ -1445,6 +1492,7 @@
    "origin": "新規選定",
    "neighbours_15min": 12,
    "candidates_considered": 10,
+   "needs_check": "",
    "runner_up_1": "えんま堂／史跡・記念物／51m／品質0.92",
    "runner_up_2": "源光寺／寺社／65m／品質0.92",
    "runner_up_3": "牛島神社／寺社／194m／品質0.92"
@@ -1474,6 +1522,7 @@
    "origin": "新規選定",
    "neighbours_15min": 13,
    "candidates_considered": 25,
+   "needs_check": "",
    "runner_up_1": "溶解した鉄柱／史跡・記念物／143m／品質0.884",
    "runner_up_2": "都立横網町公園／公園／65m／品質0.84",
    "runner_up_3": "大正大震火災石原町遭難者碑／史跡・記念物／71m／品質0.836"
@@ -1503,6 +1552,7 @@
    "origin": "新規選定",
    "neighbours_15min": 12,
    "candidates_considered": 47,
+   "needs_check": "",
    "runner_up_1": "（有）美家古鮨本店／すし／135m／品質0.958",
    "runner_up_2": "とんかつ　百万石／とんかつ／188m／品質1.0",
    "runner_up_3": "柳橋／史跡・記念物／77m／品質0.92"
@@ -1532,6 +1582,7 @@
    "origin": "新規選定",
    "neighbours_15min": 15,
    "candidates_considered": 24,
+   "needs_check": "",
    "runner_up_1": "おひげ寿司／すし／196m／品質1.0",
    "runner_up_2": "笠間稲荷神社／寺社／151m／品質0.92",
    "runner_up_3": "初姫稲荷神社／史跡・記念物／161m／品質0.92"
@@ -1561,6 +1612,7 @@
    "origin": "新規選定",
    "neighbours_15min": 8,
    "candidates_considered": 49,
+   "needs_check": "",
    "runner_up_1": "Homemade Ramen 麦苗／ラーメン／173m／品質0.916",
    "runner_up_2": "史蹟 三浦按針屋敷跡／史跡・記念物／129m／品質0.878",
    "runner_up_3": "そばよし／麺／94m／品質0.84"
@@ -1590,6 +1642,7 @@
    "origin": "新規選定",
    "neighbours_15min": 11,
    "candidates_considered": 38,
+   "needs_check": "",
    "runner_up_1": "せまかっちゃん／ラーメン／273m／品質1.0",
    "runner_up_2": "すし定／すし／273m／品質1.0",
    "runner_up_3": "御宿稲荷神社／寺社／220m／品質0.92"
@@ -1619,6 +1672,7 @@
    "origin": "新規選定",
    "neighbours_15min": 11,
    "candidates_considered": 18,
+   "needs_check": "要確認",
    "runner_up_1": "神田錦町　更科／そば／247m／品質1.0",
    "runner_up_2": "一橋徳川家 屋敷跡／史跡・記念物／190m／品質0.92",
    "runner_up_3": "新島襄先生生誕地記念の碑／史跡・記念物／149m／品質0.878"
@@ -1648,9 +1702,10 @@
    "origin": "新規選定",
    "neighbours_15min": 13,
    "candidates_considered": 44,
+   "needs_check": "",
    "runner_up_1": "ザボン／ラーメン／132m／品質1.0",
    "runner_up_2": "甘蘭牛角麺／ラーメン／146m／品質1.0",
-   "runner_up_3": "用心棒／ラーメン／154m／品質1.0"
+   "runner_up_3": "鶴八／すし／157m／品質1.0"
   },
   {
    "checkpoint_id": "CP056",
@@ -1677,6 +1732,7 @@
    "origin": "新規選定",
    "neighbours_15min": 13,
    "candidates_considered": 30,
+   "needs_check": "",
    "runner_up_1": "トーキョーニューミクスチャーヌードル 八咫烏 CHIKARABO／ラーメン／217m／品質0.916",
    "runner_up_2": "陸軍造幣廠 東京工廠跡 記念碑／史跡・記念物／137m／品質0.836",
    "runner_up_3": "瘞鷂碑／史跡・記念物／248m／品質0.92"
@@ -1706,6 +1762,7 @@
    "origin": "新規選定",
    "neighbours_15min": 9,
    "candidates_considered": 24,
+   "needs_check": "",
    "runner_up_1": "常泉院／寺社／71m／品質0.92",
    "runner_up_2": "日限不動尊／史跡・記念物／46m／品質0.884",
    "runner_up_3": "聖歓喜天／史跡・記念物／78m／品質0.884"
@@ -1735,6 +1792,7 @@
    "origin": "新規選定",
    "neighbours_15min": 12,
    "candidates_considered": 17,
+   "needs_check": "",
    "runner_up_1": "大雲寺／寺社／164m／品質0.92",
    "runner_up_2": "念速寺／寺社／176m／品質0.92",
    "runner_up_3": "新福寺／寺社／228m／品質0.92"
@@ -1764,6 +1822,7 @@
    "origin": "新規選定",
    "neighbours_15min": 10,
    "candidates_considered": 18,
+   "needs_check": "",
    "runner_up_1": "龍泉寺／寺社／192m／品質0.92",
    "runner_up_2": "金光教／寺社／226m／品質0.92",
    "runner_up_3": "浄土寺／寺社／253m／品質0.92"
@@ -1793,6 +1852,7 @@
    "origin": "新規選定",
    "neighbours_15min": 11,
    "candidates_considered": 28,
+   "needs_check": "",
    "runner_up_1": "天祖神社／寺社／135m／品質0.92",
    "runner_up_2": "鎮火稲荷神社／史跡・記念物／139m／品質0.92",
    "runner_up_3": "お七 吉三郎 比翼塚／史跡・記念物／155m／品質0.92"
@@ -1822,6 +1882,7 @@
    "origin": "新規選定",
    "neighbours_15min": 8,
    "candidates_considered": 25,
+   "needs_check": "",
    "runner_up_1": "水神稲荷神社／寺社／107m／品質0.92",
    "runner_up_2": "田端八幡神社／寺社／130m／品質0.92",
    "runner_up_3": "赤紙仁王尊／史跡・記念物／41m／品質0.884"
@@ -1851,6 +1912,7 @@
    "origin": "新規選定",
    "neighbours_15min": 8,
    "candidates_considered": 9,
+   "needs_check": "",
    "runner_up_1": "田端新町一丁目 児童遊園／公園／144m／品質0.798",
    "runner_up_2": "瀧の家／そば／329m／品質1.0",
    "runner_up_3": "かしやま／そば／332m／品質1.0"
@@ -1880,6 +1942,7 @@
    "origin": "新規選定",
    "neighbours_15min": 6,
    "candidates_considered": 22,
+   "needs_check": "",
    "runner_up_1": "にじゅうぶんのいち／そば／185m／品質0.958",
    "runner_up_2": "満光寺／寺社／157m／品質0.92",
    "runner_up_3": "満光寺／観光施設／159m／品質0.92"
@@ -1909,6 +1972,7 @@
    "origin": "新規選定",
    "neighbours_15min": 6,
    "candidates_considered": 9,
+   "needs_check": "要確認",
    "runner_up_1": "泊船軒／観光施設／113m／品質0.884",
    "runner_up_2": "らぁめん天元／麺／180m／品質0.84",
    "runner_up_3": "荒川七丁目防災広場／公園／203m／品質0.798"
@@ -1938,6 +2002,7 @@
    "origin": "新規選定",
    "neighbours_15min": 9,
    "candidates_considered": 8,
+   "needs_check": "",
    "runner_up_1": "地蔵堀児童遊園／公園／188m／品質0.84",
    "runner_up_2": "板紙発祥の地／史跡・記念物／274m／品質0.884",
    "runner_up_3": "若宮八幡宮／寺社／299m／品質0.92"
@@ -1967,6 +2032,7 @@
    "origin": "新規選定",
    "neighbours_15min": 9,
    "candidates_considered": 23,
+   "needs_check": "",
    "runner_up_1": "日枝神社／寺社／121m／品質0.92",
    "runner_up_2": "ばん麺／ラーメン／227m／品質1.0",
    "runner_up_3": "山王清兵衛の祠／史跡・記念物／92m／品質0.884"
@@ -1996,6 +2062,7 @@
    "origin": "新規選定",
    "neighbours_15min": 12,
    "candidates_considered": 8,
+   "needs_check": "",
    "runner_up_1": "延命寺／観光施設／277m／品質0.92",
    "runner_up_2": "回向院／観光施設／302m／品質0.92",
    "runner_up_3": "小塚原回向院／寺社／303m／品質0.92"
@@ -2025,6 +2092,7 @@
    "origin": "新規選定",
    "neighbours_15min": 12,
    "candidates_considered": 43,
+   "needs_check": "要確認",
    "runner_up_1": "もんじゃ　こむぎ／お好み焼き・もんじゃ／98m／品質1.0",
    "runner_up_2": "小川家／そば／113m／品質1.0",
    "runner_up_3": "大釜本店／ラーメン／151m／品質1.0"
@@ -2054,6 +2122,7 @@
    "origin": "新規選定",
    "neighbours_15min": 11,
    "candidates_considered": 40,
+   "needs_check": "",
    "runner_up_1": "称福寺／文化財のある寺社／240m／品質0.92",
    "runner_up_2": "弘福寺／寺社／244m／品質0.92",
    "runner_up_3": "牛嶋神社旧趾／史跡・記念物／219m／品質0.884"
@@ -2083,6 +2152,7 @@
    "origin": "新規選定",
    "neighbours_15min": 12,
    "candidates_considered": 22,
+   "needs_check": "要確認",
    "runner_up_1": "圓通寺／寺社／171m／品質0.92",
    "runner_up_2": "曳舟川の由来／史跡・記念物／125m／品質0.884",
    "runner_up_3": "仁家／ラーメン／263m／品質1.0"
@@ -2112,6 +2182,7 @@
    "origin": "新規選定",
    "neighbours_15min": 6,
    "candidates_considered": 10,
+   "needs_check": "",
    "runner_up_1": "平川橋落橋記念碑／史跡・記念物／243m／品質0.92",
    "runner_up_2": "横川橋児童遊園／公園／168m／品質0.84",
    "runner_up_3": "もみじばし児童遊園／公園／200m／品質0.798"
@@ -2141,6 +2212,7 @@
    "origin": "新規選定",
    "neighbours_15min": 7,
    "candidates_considered": 6,
+   "needs_check": "",
    "runner_up_1": "野見宿禰神社／寺社／254m／品質0.92",
    "runner_up_2": "緑町公園／公園／314m／品質0.84",
    "runner_up_3": "すみだ北斎美術館／museum／350m／品質0.764"
@@ -2170,6 +2242,7 @@
    "origin": "新規選定",
    "neighbours_15min": 10,
    "candidates_considered": 45,
+   "needs_check": "",
    "runner_up_1": "東京油組総本店／ラーメン／79m／品質1.0",
    "runner_up_2": "鶏林／ラーメン／99m／品質1.0",
    "runner_up_3": "玉屋／麺／119m／品質0.84"
@@ -2199,6 +2272,7 @@
    "origin": "新規選定",
    "neighbours_15min": 9,
    "candidates_considered": 9,
+   "needs_check": "",
    "runner_up_1": "明治観音堂／史跡・記念物／284m／品質0.92",
    "runner_up_2": "避難記念／史跡・記念物／310m／品質0.884",
    "runner_up_3": "御臨幸記念碑／史跡・記念物／345m／品質0.92"
@@ -2228,6 +2302,7 @@
    "origin": "新規選定",
    "neighbours_15min": 8,
    "candidates_considered": 27,
+   "needs_check": "",
    "runner_up_1": "水天宮／寺社／83m／品質0.92",
    "runner_up_2": "博多ラーメン しばらく／ラーメン／191m／品質0.958",
    "runner_up_3": "三豊麺／ラーメン／241m／品質1.0"
@@ -2257,6 +2332,7 @@
    "origin": "新規選定",
    "neighbours_15min": 8,
    "candidates_considered": 26,
+   "needs_check": "",
    "runner_up_1": "かいうんはし／史跡・記念物／39m／品質0.884",
    "runner_up_2": "銀行発祥の地／史跡・記念物／48m／品質0.884",
    "runner_up_3": "海運橋親柱／区民有形文化財／53m／品質0.884"
@@ -2286,6 +2362,7 @@
    "origin": "新規選定",
    "neighbours_15min": 10,
    "candidates_considered": 27,
+   "needs_check": "",
    "runner_up_1": "やぶ久／そば／290m／品質1.0",
    "runner_up_2": "几号水準点／史跡・記念物／224m／品質0.884",
    "runner_up_3": "一石橋迷子しらせ石標／史跡・記念物／225m／品質0.842"
@@ -2315,6 +2392,7 @@
    "origin": "新規選定",
    "neighbours_15min": 9,
    "candidates_considered": 21,
+   "needs_check": "",
    "runner_up_1": "大手門渡櫓／史跡・記念物／117m／品質0.884",
    "runner_up_2": "将門の首塚／寺社／211m／品質0.92",
    "runner_up_3": "三の丸尚蔵館／史跡・記念物／194m／品質0.884"
@@ -2344,6 +2422,7 @@
    "origin": "新規選定",
    "neighbours_15min": 8,
    "candidates_considered": 11,
+   "needs_check": "要確認",
    "runner_up_1": "毎日神社／寺社／111m／品質0.92",
    "runner_up_2": "竹橋門跡／史跡・記念物／178m／品質0.92",
    "runner_up_3": "一橋徳川家 屋敷跡／史跡・記念物／253m／品質0.92"
@@ -2373,6 +2452,7 @@
    "origin": "新規選定",
    "neighbours_15min": 7,
    "candidates_considered": 32,
+   "needs_check": "",
    "runner_up_1": "実践倫理宏正会／寺社／80m／品質0.92",
    "runner_up_2": "世継稲荷／寺社／129m／品質0.92",
    "runner_up_3": "高燈篭／史跡・記念物／44m／品質0.884"
@@ -2402,6 +2482,7 @@
    "origin": "新規選定",
    "neighbours_15min": 11,
    "candidates_considered": 38,
+   "needs_check": "要確認",
    "runner_up_1": "手打蕎麦　金升／そば／204m／品質1.0",
    "runner_up_2": "日本大学開校の地／史跡・記念物／51m／品質0.884",
    "runner_up_3": "東京大神宮／寺社／156m／品質0.92"
@@ -2431,6 +2512,7 @@
    "origin": "新規選定",
    "neighbours_15min": 7,
    "candidates_considered": 17,
+   "needs_check": "",
    "runner_up_1": "明善稲荷大神／寺社／194m／品質0.92",
    "runner_up_2": "公開空き地／公園／70m／品質0.84",
    "runner_up_3": "中華そば／ラーメン／286m／品質1.0"
@@ -2460,6 +2542,7 @@
    "origin": "新規選定",
    "neighbours_15min": 8,
    "candidates_considered": 6,
+   "needs_check": "",
    "runner_up_1": "善仁寺／寺社／301m／品質0.92",
    "runner_up_2": "宗慶寺／寺社／344m／品質0.92",
    "runner_up_3": "深光寺／寺社／359m／品質0.92"
@@ -2489,6 +2572,7 @@
    "origin": "新規選定",
    "neighbours_15min": 6,
    "candidates_considered": 12,
+   "needs_check": "",
    "runner_up_1": "石鳥居／史跡・記念物／70m／品質0.884",
    "runner_up_2": "簸川神社／寺社／233m／品質0.92",
    "runner_up_3": "小石川植物園／庭園／181m／品質0.84"
@@ -2518,6 +2602,7 @@
    "origin": "新規選定",
    "neighbours_15min": 7,
    "candidates_considered": 9,
+   "needs_check": "",
    "runner_up_1": "千石緑地／公園／202m／品質0.84",
    "runner_up_2": "駕籠町公園／公園／205m／品質0.84",
    "runner_up_3": "まさひろ寿司／すし／338m／品質1.0"
@@ -2547,9 +2632,10 @@
    "origin": "新規選定",
    "neighbours_15min": 8,
    "candidates_considered": 22,
+   "needs_check": "",
    "runner_up_1": "髙はし／すし／281m／品質1.0",
    "runner_up_2": "六義園／史跡・記念物／236m／品質0.92",
-   "runner_up_3": "小松庵／そば／291m／品質1.0"
+   "runner_up_3": "麺屋ごとう／ラーメン／292m／品質1.0"
   },
   {
    "checkpoint_id": "CP087",
@@ -2576,6 +2662,7 @@
    "origin": "新規選定",
    "neighbours_15min": 7,
    "candidates_considered": 22,
+   "needs_check": "",
    "runner_up_1": "大龍寺／寺社／110m／品質0.92",
    "runner_up_2": "上田端八幡神社／寺社／111m／品質0.92",
    "runner_up_3": "松乃寿司／すし／220m／品質1.0"
@@ -2605,6 +2692,7 @@
    "origin": "新規選定",
    "neighbours_15min": 6,
    "candidates_considered": 13,
+   "needs_check": "",
    "runner_up_1": "鉄道神社／寺社／241m／品質0.92",
    "runner_up_2": "麺屋 天王／麺／178m／品質0.84",
    "runner_up_3": "東田端二丁目児童遊園／公園／130m／品質0.798"
@@ -2787,6 +2875,10 @@
     12.1
    ],
    [
+    "CP006",
+    22.0
+   ],
+   [
     "CP012",
     20.9
    ],
@@ -2834,7 +2926,7 @@
    ],
    [
     "CP006",
-    11.8
+    10.3
    ],
    [
     "CP007",
@@ -2875,52 +2967,52 @@
   ],
   "CP006": [
    [
+    "CP004",
+    22.0
+   ],
+   [
     "CP005",
-    11.8
+    10.3
    ],
    [
     "CP007",
-    12.5
+    13.9
    ],
    [
     "CP015",
-    18.5
+    17.0
    ],
    [
     "CP017",
-    9.7
+    11.0
    ],
    [
     "CP018",
-    14.5
-   ],
-   [
-    "CP019",
-    20.7
+    15.9
    ],
    [
     "CP030",
-    13.8
+    12.3
    ],
    [
     "CP031",
-    13.0
+    11.7
    ],
    [
     "CP032",
-    15.3
+    16.6
    ],
    [
     "CP033",
-    17.1
+    18.4
    ],
    [
     "CP050",
-    18.7
+    17.4
    ],
    [
     "CP051",
-    21.2
+    20.3
    ]
   ],
   "CP007": [
@@ -2930,7 +3022,7 @@
    ],
    [
     "CP006",
-    12.5
+    13.9
    ],
    [
     "CP008",
@@ -2966,7 +3058,7 @@
    ],
    [
     "CP034",
-    16.5
+    17.1
    ],
    [
     "CP035",
@@ -3004,7 +3096,7 @@
    ],
    [
     "CP021",
-    14.3
+    15.2
    ],
    [
     "CP035",
@@ -3046,7 +3138,7 @@
    ],
    [
     "CP021",
-    11.3
+    10.3
    ],
    [
     "CP022",
@@ -3402,7 +3494,7 @@
    ],
    [
     "CP006",
-    18.5
+    17.0
    ],
    [
     "CP013",
@@ -3506,7 +3598,7 @@
    ],
    [
     "CP006",
-    9.7
+    11.0
    ],
    [
     "CP007",
@@ -3534,7 +3626,7 @@
    ],
    [
     "CP034",
-    17.3
+    17.9
    ],
    [
     "CP050",
@@ -3572,7 +3664,7 @@
   "CP018": [
    [
     "CP006",
-    14.5
+    15.9
    ],
    [
     "CP007",
@@ -3612,7 +3704,7 @@
    ],
    [
     "CP034",
-    10.5
+    11.1
    ],
    [
     "CP035",
@@ -3637,10 +3729,6 @@
   ],
   "CP019": [
    [
-    "CP006",
-    20.7
-   ],
-   [
     "CP007",
     8.7
    ],
@@ -3662,11 +3750,11 @@
    ],
    [
     "CP021",
-    17.5
+    18.9
    ],
    [
     "CP034",
-    15.0
+    15.6
    ],
    [
     "CP036",
@@ -3720,7 +3808,7 @@
    ],
    [
     "CP021",
-    12.6
+    14.0
    ],
    [
     "CP035",
@@ -3758,51 +3846,51 @@
   "CP021": [
    [
     "CP008",
-    14.3
+    15.2
    ],
    [
     "CP009",
-    11.3
+    10.3
    ],
    [
     "CP019",
-    17.5
+    18.9
    ],
    [
     "CP020",
-    12.6
+    14.0
    ],
    [
     "CP022",
-    15.5
+    14.4
    ],
    [
     "CP036",
-    19.6
+    21.0
    ],
    [
     "CP037",
-    15.8
+    17.4
    ],
    [
     "CP038",
-    9.4
+    12.1
    ],
    [
     "CP039",
-    18.0
+    17.0
    ],
    [
     "CP058",
-    17.7
+    20.4
    ],
    [
     "CP059",
-    18.4
+    21.1
    ],
    [
     "CP060",
-    16.7
+    19.0
    ]
   ],
   "CP022": [
@@ -3816,7 +3904,7 @@
    ],
    [
     "CP021",
-    15.5
+    14.4
    ],
    [
     "CP038",
@@ -4300,7 +4388,7 @@
    ],
    [
     "CP006",
-    13.8
+    12.3
    ],
    [
     "CP014",
@@ -4354,7 +4442,7 @@
    ],
    [
     "CP006",
-    13.0
+    11.7
    ],
    [
     "CP015",
@@ -4400,7 +4488,7 @@
   "CP032": [
    [
     "CP006",
-    15.3
+    16.6
    ],
    [
     "CP016",
@@ -4462,7 +4550,7 @@
   "CP033": [
    [
     "CP006",
-    17.1
+    18.4
    ],
    [
     "CP007",
@@ -4486,7 +4574,7 @@
    ],
    [
     "CP034",
-    10.7
+    10.8
    ],
    [
     "CP052",
@@ -4516,51 +4604,55 @@
   "CP034": [
    [
     "CP007",
-    16.5
+    17.1
    ],
    [
     "CP017",
-    17.3
+    17.9
    ],
    [
     "CP018",
-    10.5
+    11.1
    ],
    [
     "CP019",
-    15.0
+    15.6
    ],
    [
     "CP033",
-    10.7
+    10.8
    ],
    [
     "CP035",
-    16.0
-   ],
-   [
-    "CP053",
     15.8
    ],
    [
+    "CP036",
+    21.7
+   ],
+   [
+    "CP053",
+    15.6
+   ],
+   [
     "CP056",
-    19.0
+    18.4
    ],
    [
     "CP078",
-    15.7
+    15.4
    ],
    [
     "CP079",
-    13.0
+    12.4
    ],
    [
     "CP080",
-    15.3
+    14.7
    ],
    [
     "CP081",
-    18.5
+    17.9
    ]
   ],
   "CP035": [
@@ -4582,7 +4674,7 @@
    ],
    [
     "CP034",
-    16.0
+    15.8
    ],
    [
     "CP036",
@@ -4636,7 +4728,11 @@
    ],
    [
     "CP021",
-    19.6
+    21.0
+   ],
+   [
+    "CP034",
+    21.7
    ],
    [
     "CP035",
@@ -4690,7 +4786,7 @@
    ],
    [
     "CP021",
-    15.8
+    17.4
    ],
    [
     "CP035",
@@ -4744,7 +4840,7 @@
    ],
    [
     "CP021",
-    9.4
+    12.1
    ],
    [
     "CP022",
@@ -4802,7 +4898,7 @@
    ],
    [
     "CP021",
-    18.0
+    17.0
    ],
    [
     "CP038",
@@ -5364,7 +5460,7 @@
    ],
    [
     "CP006",
-    18.7
+    17.4
    ],
    [
     "CP015",
@@ -5414,7 +5510,7 @@
    ],
    [
     "CP006",
-    21.2
+    20.3
    ],
    [
     "CP015",
@@ -5518,7 +5614,7 @@
    ],
    [
     "CP034",
-    15.8
+    15.6
    ],
    [
     "CP052",
@@ -5664,7 +5760,7 @@
    ],
    [
     "CP034",
-    19.0
+    18.4
    ],
    [
     "CP035",
@@ -5748,7 +5844,7 @@
    ],
    [
     "CP021",
-    17.7
+    20.4
    ],
    [
     "CP036",
@@ -5794,7 +5890,7 @@
   "CP059": [
    [
     "CP021",
-    18.4
+    21.1
    ],
    [
     "CP022",
@@ -5836,7 +5932,7 @@
   "CP060": [
    [
     "CP021",
-    16.7
+    19.0
    ],
    [
     "CP022",
@@ -6524,7 +6620,7 @@
    ],
    [
     "CP034",
-    15.7
+    15.4
    ],
    [
     "CP052",
@@ -6562,7 +6658,7 @@
    ],
    [
     "CP034",
-    13.0
+    12.4
    ],
    [
     "CP053",
@@ -6592,7 +6688,7 @@
   "CP080": [
    [
     "CP034",
-    15.3
+    14.7
    ],
    [
     "CP035",
@@ -6626,7 +6722,7 @@
    ],
    [
     "CP034",
-    18.5
+    17.9
    ],
    [
     "CP035",

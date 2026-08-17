@@ -25,7 +25,7 @@ def reason(c):
 COLS=['checkpoint_id','band_min','sector','sector_ja','plot_lat','plot_lon',
       'walk_min_from_core','spot_name','spot_category','spot_group','spot_lat','spot_lon',
       'offset_m','Q1','Q2','Q3','Q4','Q5','quality_total','reason','source','origin',
-      'neighbours_15min','candidates_considered','runner_up_1','runner_up_2','runner_up_3']
+      'neighbours_15min','candidates_considered','needs_check','runner_up_1','runner_up_2','runner_up_3']
 rows=[]
 for c in a['checkpoints']:
     if not c.get('spot_name'): continue
@@ -40,6 +40,7 @@ for c in a['checkpoints']:
       'origin':'185件から再利用' if c['reuse_185'] else '新規選定',
       'neighbours_15min':len(E.get(c['checkpoint_id'],[])),
       'candidates_considered':c['candidates_considered'],
+      'needs_check':'要確認' if c.get('needs_check') else '',
       **{f'runner_up_{i+1}': (f"{r['name']}／{r['cat']}／{r['offset_m']}m／品質{r['quality']}" if r else '')
          for i,r in enumerate(ru)}})
 with open(os.path.join(G,'..','checkpoints.csv'),'w',newline='',encoding='utf-8-sig') as f:
